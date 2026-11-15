@@ -146,4 +146,4 @@ The sketch prints the initial LDR value over serial at startup to help with cali
 - **Scalability:** extend to smart buildings, greenhouses or industrial setups.
 
 
-*Developed as a course project for EEE 4604 at the Islamic University of Technology.*
+*Developed as a course project for EEE 4604 (Measurement and Instrumentation) at the Islamic University of Technology.*
